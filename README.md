@@ -177,24 +177,12 @@ Scikit-learn
 
 
 
-▶️ How to Run the Project
-1️⃣ Install Dependencies
+# How to Run the Project
+1 Install Dependencies
 pip install -r requirements.txt
 
-2️⃣ Run the Application
+2 Run the Application
 streamlit run app.py
-
-
-📁 Project Structure
-EV-Vehicle-Demand-Prediction/
-│
-├── app.py
-├── EV_DL_Model_Training.ipynb
-├── ev_lstm_model.keras
-├── ev_scaler.pkl
-├── Electric_vehicle_population_By_country.csv
-├── requirements.txt
-├── README.md
 
 
 # Real-World Applications
